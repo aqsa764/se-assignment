@@ -1,0 +1,12 @@
+SDLC :
+
+SDLC is a structure that imposed the software product that defined the process for planning,analisys, designing ,impimentation ,testing and maintanance. 
+
+There are six phases of SDLC:
+
+1. Requirement collection
+2. Analisys
+3. Designing
+4. Implimentation
+5. Testing
+6. Maintanance   
